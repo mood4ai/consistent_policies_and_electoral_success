@@ -10,3 +10,6 @@ Methodology:
     o	Absolute change of the importance of the topics, representing the change of policy
     
   -	Considering only parties, that were tracked for 18 or more years by the Manifesto Project. 
+  
+  
+  ![political_animation](https://user-images.githubusercontent.com/66714895/103219030-e97b0e80-491c-11eb-8705-0f859fb8a03b.gif)
