@@ -29,4 +29,7 @@ Methodology:
 - The idea was to see, if a change of policy would lead to a positive or negative party performance between two elections and to cumulate those values over period of 18 consecutive elections.
   
 ![grafik](https://user-images.githubusercontent.com/66714895/103219140-352db800-491d-11eb-8a8b-ca102907b3ec.png)
+
+
+Result: 
 ![political_animation](https://user-images.githubusercontent.com/66714895/103219030-e97b0e80-491c-11eb-8705-0f859fb8a03b.gif)
