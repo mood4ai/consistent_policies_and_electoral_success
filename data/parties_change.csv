@@ -1,0 +1,628 @@
+party;step;pv;area;change;pop;change_st
+Australian Labor Party;0;48;Asia&Oceania;0;;
+Australian Labor Party;1;50;Asia&Oceania;142;5;142
+Australian Labor Party;2;45;Asia&Oceania;360;-6;218
+Australian Labor Party;3;43;Asia&Oceania;471;-10;112
+Australian Labor Party;4;48;Asia&Oceania;991;2;520
+Australian Labor Party;5;45;Asia&Oceania;2273;-3;1282
+Australian Labor Party;6;40;Asia&Oceania;2751;-15;477
+Australian Labor Party;7;47;Asia&Oceania;2839;2;88
+Australian Labor Party;8;50;Asia&Oceania;2878;8;39
+Australian Labor Party;9;49;Asia&Oceania;2994;7;116
+Australian Labor Party;10;43;Asia&Oceania;3262;-6;267
+Australian Labor Party;11;40;Asia&Oceania;3381;-13;120
+Australian Labor Party;12;45;Asia&Oceania;3430;1;49
+Australian Labor Party;13;49;Asia&Oceania;3678;10;248
+Australian Labor Party;14;48;Asia&Oceania;3740;6;62
+Australian Labor Party;15;46;Asia&Oceania;3780;3;41
+Australian Labor Party;16;39;Asia&Oceania;4137;-11;357
+Australian Labor Party;17;45;Asia&Oceania;4349;3;212
+Australian Labor Party;18;39;Asia&Oceania;4723;-11;374
+Austrian Freedom Party;0;7;Central Europa;0;;
+Austrian Freedom Party;1;8;Central Europa;111;18;111
+Austrian Freedom Party;2;7;Central Europa;361;10;250
+Austrian Freedom Party;3;5;Central Europa;565;-14;204
+Austrian Freedom Party;4;6;Central Europa;770;-11;204
+Austrian Freedom Party;5;5;Central Europa;1425;-13;655
+Austrian Freedom Party;6;5;Central Europa;1752;-13;328
+Austrian Freedom Party;7;6;Central Europa;2092;-1;339
+Austrian Freedom Party;8;5;Central Europa;2161;-19;69
+Austrian Freedom Party;9;10;Central Europa;2324;76;164
+Austrian Freedom Party;10;17;Central Europa;2469;147;144
+Austrian Freedom Party;11;22;Central Europa;2511;182;42
+Austrian Freedom Party;12;22;Central Europa;2572;180;61
+Austrian Freedom Party;13;27;Central Europa;2724;203;152
+Austrian Freedom Party;14;10;Central Europa;2944;140;220
+Austrian Freedom Party;15;11;Central Europa;3097;150;153
+Austrian Freedom Party;16;18;Central Europa;3172;209;75
+Austrian Freedom Party;17;21;Central Europa;3329;226;158
+Austrian Freedom Party;18;26;Central Europa;3423;253;93
+Austrian People’s Party;0;41;Central Europa;0;;
+Austrian People’s Party;1;46;Central Europa;432;11;432
+Austrian People’s Party;2;44;Central Europa;970;8;538
+Austrian People’s Party;3;45;Central Europa;1064;10;94
+Austrian People’s Party;4;48;Central Europa;1165;17;100
+Austrian People’s Party;5;45;Central Europa;1353;9;188
+Austrian People’s Party;6;43;Central Europa;1972;6;620
+Austrian People’s Party;7;43;Central Europa;2383;5;410
+Austrian People’s Party;8;42;Central Europa;2471;3;88
+Austrian People’s Party;9;43;Central Europa;2666;6;195
+Austrian People’s Party;10;41;Central Europa;2999;2;334
+Austrian People’s Party;11;32;Central Europa;3224;-21;225
+Austrian People’s Party;12;28;Central Europa;3252;-35;28
+Austrian People’s Party;13;28;Central Europa;3307;-32;55
+Austrian People’s Party;14;27;Central Europa;3492;-37;185
+Austrian People’s Party;15;42;Central Europa;3550;20;58
+Austrian People’s Party;16;34;Central Europa;3600;1;49
+Austrian People’s Party;17;26;Central Europa;3689;-23;89
+Austrian People’s Party;18;24;Central Europa;3758;-31;69
+Austrian Social Democratic Party;0;42;Central Europa;0;;
+Austrian Social Democratic Party;1;43;Central Europa;221;2;221
+Austrian Social Democratic Party;2;45;Central Europa;311;6;90
+Austrian Social Democratic Party;3;44;Central Europa;418;5;107
+Austrian Social Democratic Party;4;43;Central Europa;460;1;42
+Austrian Social Democratic Party;5;48;Central Europa;653;15;194
+Austrian Social Democratic Party;6;50;Central Europa;929;18;276
+Austrian Social Democratic Party;7;50;Central Europa;990;19;61
+Austrian Social Democratic Party;8;51;Central Europa;1059;20;69
+Austrian Social Democratic Party;9;48;Central Europa;1131;14;72
+Austrian Social Democratic Party;10;43;Central Europa;1200;4;68
+Austrian Social Democratic Party;11;43;Central Europa;1210;3;11
+Austrian Social Democratic Party;12;35;Central Europa;1256;-15;46
+Austrian Social Democratic Party;13;38;Central Europa;1368;-6;112
+Austrian Social Democratic Party;14;33;Central Europa;1462;-19;94
+Austrian Social Democratic Party;15;37;Central Europa;1500;-9;38
+Austrian Social Democratic Party;16;35;Central Europa;1521;-12;22
+Austrian Social Democratic Party;17;29;Central Europa;1535;-29;13
+Austrian Social Democratic Party;18;27;Central Europa;1644;-38;109
+Centre Party;0;11;North Europe;0;;
+Centre Party;1;9;North Europe;30;-12;30
+Centre Party;2;13;North Europe;136;22;106
+Centre Party;3;14;North Europe;224;30;88
+Centre Party;4;13;North Europe;283;26;60
+Centre Party;5;16;North Europe;486;45;203
+Centre Party;6;20;North Europe;641;72;154
+Centre Party;7;25;North Europe;689;98;48
+Centre Party;8;24;North Europe;718;94;29
+Centre Party;9;18;North Europe;920;69;201
+Centre Party;10;15;North Europe;953;55;33
+Centre Party;11;12;North Europe;1026;33;73
+Centre Party;12;11;North Europe;1165;27;139
+Centre Party;13;9;North Europe;1314;2;149
+Centre Party;14;8;North Europe;1356;-8;42
+Centre Party;15;5;North Europe;1540;-41;183
+Centre Party;16;6;North Europe;1649;-20;110
+Centre Party;17;8;North Europe;1706;7;57
+Centre Party;18;7;North Europe;1737;-10;31
+Christian Democratic Union/Christian Social Union;0;45;Central Europa;0;;
+Christian Democratic Union/Christian Social Union;1;50;Central Europa;274;11;274
+Christian Democratic Union/Christian Social Union;2;45;Central Europa;430;1;157
+Christian Democratic Union/Christian Social Union;3;48;Central Europa;534;6;104
+Christian Democratic Union/Christian Social Union;4;46;Central Europa;813;3;280
+Christian Democratic Union/Christian Social Union;5;45;Central Europa;935;1;121
+Christian Democratic Union/Christian Social Union;6;49;Central Europa;963;9;29
+Christian Democratic Union/Christian Social Union;7;45;Central Europa;1058;1;95
+Christian Democratic Union/Christian Social Union;8;49;Central Europa;1149;10;90
+Christian Democratic Union/Christian Social Union;9;44;Central Europa;1172;1;24
+Christian Democratic Union/Christian Social Union;10;44;Central Europa;1263;0;90
+Christian Democratic Union/Christian Social Union;11;41;Central Europa;1464;-6;201
+Christian Democratic Union/Christian Social Union;12;35;Central Europa;1549;-21;84
+Christian Democratic Union/Christian Social Union;13;39;Central Europa;1560;-11;11
+Christian Democratic Union/Christian Social Union;14;35;Central Europa;1617;-20;57
+Christian Democratic Union/Christian Social Union;15;34;Central Europa;1634;-24;17
+Christian Democratic Union/Christian Social Union;16;42;Central Europa;1678;-1;44
+Christian Democratic Union/Christian Social Union;17;33;Central Europa;1710;-22;32
+Christian Democratic Union/Christian Social Union;18;33;Central Europa;1710;-22;0
+Conservative Party;0;43;North Europe;0;;
+Conservative Party;1;48;North Europe;39;10;39
+Conservative Party;2;50;North Europe;266;14;227
+Conservative Party;3;49;North Europe;364;13;98
+Conservative Party;4;43;North Europe;396;1;32
+Conservative Party;5;42;North Europe;533;-2;137
+Conservative Party;6;46;North Europe;662;9;129
+Conservative Party;7;38;North Europe;701;-10;39
+Conservative Party;8;36;North Europe;753;-15;52
+Conservative Party;9;44;North Europe;868;7;114
+Conservative Party;10;42;North Europe;960;4;92
+Conservative Party;11;42;North Europe;989;4;29
+Conservative Party;12;42;North Europe;1063;3;74
+Conservative Party;13;31;North Europe;1133;-24;70
+Conservative Party;14;32;North Europe;1169;-21;36
+Conservative Party;15;32;North Europe;1239;-19;70
+Conservative Party;16;36;North Europe;1307;-7;68
+Conservative Party;17;37;North Europe;1336;-5;29
+Conservative Party;18;42;North Europe;1364;10;28
+Conservative People’s Party;0;18;North Europe;0;;
+Conservative People’s Party;1;17;North Europe;80;-3;80
+Conservative People’s Party;2;17;North Europe;138;-5;58
+Conservative People’s Party;3;17;North Europe;305;-7;167
+Conservative People’s Party;4;18;North Europe;366;1;61
+Conservative People’s Party;5;20;North Europe;520;13;154
+Conservative People’s Party;6;19;North Europe;1352;6;833
+Conservative People’s Party;7;20;North Europe;1967;15;615
+Conservative People’s Party;8;17;North Europe;2066;-3;99
+Conservative People’s Party;9;9;North Europe;2409;-48;344
+Conservative People’s Party;10;6;North Europe;3171;-88;762
+Conservative People’s Party;11;8;North Europe;3193;-34;22
+Conservative People’s Party;12;12;North Europe;3290;13;97
+Conservative People’s Party;13;14;North Europe;3413;29;123
+Conservative People’s Party;14;23;North Europe;3513;91;100
+Conservative People’s Party;15;21;North Europe;3605;80;92
+Conservative People’s Party;16;19;North Europe;4871;73;1266
+Conservative People’s Party;17;16;North Europe;6383;55;1512
+Conservative People’s Party;18;15;North Europe;6655;50;272
+Danish Social-Liberal Party;0;8;North Europe;0;;
+Danish Social-Liberal Party;1;9;North Europe;432;6;432
+Danish Social-Liberal Party;2;8;North Europe;985;-4;554
+Danish Social-Liberal Party;3;8;North Europe;1041;-4;55
+Danish Social-Liberal Party;4;6;North Europe;1110;-30;70
+Danish Social-Liberal Party;5;5;North Europe;1148;-38;38
+Danish Social-Liberal Party;6;7;North Europe;1242;-1;93
+Danish Social-Liberal Party;7;15;North Europe;1290;104;49
+Danish Social-Liberal Party;8;14;North Europe;1418;100;128
+Danish Social-Liberal Party;9;11;North Europe;1564;79;146
+Danish Social-Liberal Party;10;7;North Europe;1637;42;72
+Danish Social-Liberal Party;11;4;North Europe;1681;-7;44
+Danish Social-Liberal Party;12;5;North Europe;1940;42;260
+Danish Social-Liberal Party;13;5;North Europe;2061;36;121
+Danish Social-Liberal Party;14;5;North Europe;2100;44;39
+Danish Social-Liberal Party;15;6;North Europe;2229;57;129
+Danish Social-Liberal Party;16;6;North Europe;2431;46;202
+Danish Social-Liberal Party;17;4;North Europe;2759;10;328
+Danish Social-Liberal Party;18;5;North Europe;2902;39;142
+Democratic Party;0;50;America;0;;
+Democratic Party;1;51;America;18;3;18
+Democratic Party;2;55;America;42;10;24
+Democratic Party;3;58;America;51;15;9
+Democratic Party;4;51;America;121;3;70
+Democratic Party;5;53;America;394;7;273
+Democratic Party;6;57;America;700;15;306
+Democratic Party;7;51;America;783;4;82
+Democratic Party;8;52;America;816;7;34
+Democratic Party;9;54;America;864;10;47
+Democratic Party;10;50;America;951;3;87
+Democratic Party;11;48;America;1077;-1;126
+Democratic Party;12;47;America;1105;-2;28
+Democratic Party;13;47;America;1148;-4;43
+Democratic Party;14;53;America;1271;10;124
+Democratic Party;15;49;America;1345;2;74
+Democratic Party;16;47;America;1394;-1;48
+Democratic Party;17;47;America;1394;-1;0
+Democratic Party;18;47;America;1394;-1;0
+Free Democratic Party;0;10;Central Europa;0;;
+Free Democratic Party;1;8;Central Europa;131;-19;131
+Free Democratic Party;2;13;Central Europa;277;46;146
+Free Democratic Party;3;9;Central Europa;565;21;288
+Free Democratic Party;4;6;Central Europa;709;-18;143
+Free Democratic Party;5;8;Central Europa;901;26;193
+Free Democratic Party;6;8;Central Europa;1005;21;104
+Free Democratic Party;7;11;Central Europa;1032;55;27
+Free Democratic Party;8;7;Central Europa;1122;21;90
+Free Democratic Party;9;9;Central Europa;1150;52;28
+Free Democratic Party;10;11;Central Europa;1197;73;47
+Free Democratic Party;11;7;Central Europa;1280;35;83
+Free Democratic Party;12;6;Central Europa;1358;26;78
+Free Democratic Party;13;7;Central Europa;1436;44;77
+Free Democratic Party;14;10;Central Europa;1494;77;59
+Free Democratic Party;15;15;Central Europa;1501;125;7
+Free Democratic Party;16;5;Central Europa;1549;58;48
+Free Democratic Party;17;11;Central Europa;1585;182;35
+Free Democratic Party;18;11;Central Europa;1585;182;0
+Independence Party;0;37;North Europe;0;;
+Independence Party;1;42;North Europe;215;14;215
+Independence Party;2;42;North Europe;640;14;425
+Independence Party;3;40;North Europe;781;8;141
+Independence Party;4;41;North Europe;1099;12;318
+Independence Party;5;38;North Europe;1394;3;294
+Independence Party;6;36;North Europe;1562;-1;169
+Independence Party;7;43;North Europe;1984;17;422
+Independence Party;8;33;North Europe;2134;-6;150
+Independence Party;9;35;North Europe;2408;2;274
+Independence Party;10;39;North Europe;2706;11;298
+Independence Party;11;27;North Europe;3103;-19;398
+Independence Party;12;39;North Europe;3514;23;410
+Independence Party;13;37;North Europe;3745;19;231
+Independence Party;14;41;North Europe;3808;29;63
+Independence Party;15;34;North Europe;3935;12;127
+Independence Party;16;37;North Europe;3970;21;34
+Independence Party;17;24;North Europe;4159;-14;189
+Independence Party;18;27;North Europe;4225;-2;67
+Institutional Revolutionary Party;0;90;America;0;;
+Institutional Revolutionary Party;1;91;America;42;1;42
+Institutional Revolutionary Party;2;86;America;110;-4;68
+Institutional Revolutionary Party;3;83;America;198;-7;88
+Institutional Revolutionary Party;4;78;America;247;-14;48
+Institutional Revolutionary Party;5;85;America;408;-5;161
+Institutional Revolutionary Party;6;73;America;500;-19;92
+Institutional Revolutionary Party;7;68;America;686;-26;186
+Institutional Revolutionary Party;8;65;America;800;-30;114
+Institutional Revolutionary Party;9;51;America;843;-51;44
+Institutional Revolutionary Party;10;61;America;906;-31;63
+Institutional Revolutionary Party;11;50;America;921;-50;15
+Institutional Revolutionary Party;12;39;America;929;-72;8
+Institutional Revolutionary Party;13;35;America;950;-82;22
+Institutional Revolutionary Party;14;35;America;1092;-84;141
+Institutional Revolutionary Party;15;39;America;1263;-71;171
+Institutional Revolutionary Party;16;34;America;1422;-84;159
+Institutional Revolutionary Party;17;31;America;1504;-93;82
+Institutional Revolutionary Party;18;31;America;1504;-93;0
+Japanese Communist Party;0;3;Asia&Oceania;0;;
+Japanese Communist Party;1;4;Asia&Oceania;52;37;52
+Japanese Communist Party;2;5;Asia&Oceania;166;56;114
+Japanese Communist Party;3;7;Asia&Oceania;481;99;315
+Japanese Communist Party;4;10;Asia&Oceania;739;153;257
+Japanese Communist Party;5;10;Asia&Oceania;842;152;103
+Japanese Communist Party;6;10;Asia&Oceania;947;152;105
+Japanese Communist Party;7;10;Asia&Oceania;1132;146;185
+Japanese Communist Party;8;9;Asia&Oceania;1636;141;505
+Japanese Communist Party;9;9;Asia&Oceania;1825;136;188
+Japanese Communist Party;10;8;Asia&Oceania;1932;126;107
+Japanese Communist Party;11;8;Asia&Oceania;2396;123;464
+Japanese Communist Party;12;13;Asia&Oceania;2920;193;524
+Japanese Communist Party;13;11;Asia&Oceania;3542;179;621
+Japanese Communist Party;14;8;Asia&Oceania;3866;148;325
+Japanese Communist Party;15;7;Asia&Oceania;4009;141;142
+Japanese Communist Party;16;7;Asia&Oceania;4137;138;128
+Japanese Communist Party;17;6;Asia&Oceania;4369;125;232
+Japanese Communist Party;18;11;Asia&Oceania;4655;211;286
+Labour Party;0;46;North Europe;0;;
+Labour Party;1;49;North Europe;25;6;25
+Labour Party;2;46;North Europe;86;1;61
+Labour Party;3;44;North Europe;130;-5;44
+Labour Party;4;44;North Europe;215;-4;86
+Labour Party;5;48;North Europe;334;5;118
+Labour Party;6;43;North Europe;505;-5;171
+Labour Party;7;37;North Europe;813;-19;308
+Labour Party;8;39;North Europe;876;-14;63
+Labour Party;9;37;North Europe;944;-19;68
+Labour Party;10;28;North Europe;969;-45;25
+Labour Party;11;31;North Europe;986;-33;17
+Labour Party;12;34;North Europe;1069;-21;83
+Labour Party;13;43;North Europe;1205;4;136
+Labour Party;14;41;North Europe;1254;-2;49
+Labour Party;15;35;North Europe;1265;-15;11
+Labour Party;16;29;North Europe;1305;-33;40
+Labour Party;17;30;North Europe;1407;-28;102
+Labour Party;18;40;North Europe;1464;4;56
+Liberal Democratic Party;0;58;Asia&Oceania;0;;
+Liberal Democratic Party;1;55;Asia&Oceania;133;-5;133
+Liberal Democratic Party;2;49;Asia&Oceania;351;-16;218
+Liberal Democratic Party;3;48;Asia&Oceania;642;-18;292
+Liberal Democratic Party;4;47;Asia&Oceania;1266;-20;624
+Liberal Democratic Party;5;42;Asia&Oceania;1587;-31;321
+Liberal Democratic Party;6;45;Asia&Oceania;1662;-24;75
+Liberal Democratic Party;7;48;Asia&Oceania;1709;-17;46
+Liberal Democratic Party;8;46;Asia&Oceania;1856;-21;148
+Liberal Democratic Party;9;49;Asia&Oceania;1939;-13;83
+Liberal Democratic Party;10;46;Asia&Oceania;2200;-20;261
+Liberal Democratic Party;11;37;Asia&Oceania;2396;-40;196
+Liberal Democratic Party;12;33;Asia&Oceania;3307;-51;911
+Liberal Democratic Party;13;28;Asia&Oceania;4128;-64;821
+Liberal Democratic Party;14;35;Asia&Oceania;4394;-41;266
+Liberal Democratic Party;15;38;Asia&Oceania;4474;-32;80
+Liberal Democratic Party;16;27;Asia&Oceania;4550;-62;76
+Liberal Democratic Party;17;28;Asia&Oceania;4594;-58;44
+Liberal Democratic Party;18;33;Asia&Oceania;4674;-38;80
+Liberal Party of Australia;0;41;Asia&Oceania;0;;
+Liberal Party of Australia;1;39;Asia&Oceania;395;-5;395
+Liberal Party of Australia;2;40;Asia&Oceania;501;-2;107
+Liberal Party of Australia;3;37;Asia&Oceania;543;-8;41
+Liberal Party of Australia;4;34;Asia&Oceania;741;-18;198
+Liberal Party of Australia;5;37;Asia&Oceania;1087;-8;346
+Liberal Party of Australia;6;40;Asia&Oceania;1171;1;84
+Liberal Party of Australia;7;35;Asia&Oceania;1297;-13;125
+Liberal Party of Australia;8;32;Asia&Oceania;1377;-21;80
+Liberal Party of Australia;9;35;Asia&Oceania;1423;-12;47
+Liberal Party of Australia;10;42;Asia&Oceania;1532;8;108
+Liberal Party of Australia;11;38;Asia&Oceania;1904;-1;372
+Liberal Party of Australia;12;37;Asia&Oceania;1954;-3;51
+Liberal Party of Australia;13;34;Asia&Oceania;2172;-11;218
+Liberal Party of Australia;14;34;Asia&Oceania;2313;-11;141
+Liberal Party of Australia;15;34;Asia&Oceania;2625;-11;312
+Liberal Party of Australia;16;35;Asia&Oceania;2731;-10;106
+Liberal Party of Australia;17;37;Asia&Oceania;2873;-3;142
+Liberal Party of Australia;18;39;Asia&Oceania;3111;1;238
+Liberal Party of Canada;0;49;America;0;;
+Liberal Party of Canada;1;41;America;768;-16;768
+Liberal Party of Canada;2;34;America;1643;-34;875
+Liberal Party of Canada;3;37;America;1772;-23;128
+Liberal Party of Canada;4;42;America;1844;-11;73
+Liberal Party of Canada;5;40;America;2287;-15;443
+Liberal Party of Canada;6;45;America;2918;-2;631
+Liberal Party of Canada;7;38;America;3254;-17;336
+Liberal Party of Canada;8;43;America;3764;-5;510
+Liberal Party of Canada;9;40;America;4391;-12;627
+Liberal Party of Canada;10;44;America;4694;-1;303
+Liberal Party of Canada;11;28;America;5038;-38;344
+Liberal Party of Canada;12;32;America;5196;-24;158
+Liberal Party of Canada;13;41;America;5401;5;205
+Liberal Party of Canada;14;38;America;5519;-2;118
+Liberal Party of Canada;15;41;America;5758;5;240
+Liberal Party of Canada;16;37;America;5852;-6;94
+Liberal Party of Canada;17;30;America;5962;-23;110
+Liberal Party of Canada;18;26;America;6184;-36;222
+Liberals;0;21;North Europe;0;;
+Liberals;1;22;North Europe;125;3;125
+Liberals;2;23;North Europe;193;8;68
+Liberals;3;25;North Europe;313;17;120
+Liberals;4;21;North Europe;530;1;217
+Liberals;5;21;North Europe;721;0;191
+Liberals;6;19;North Europe;755;-8;34
+Liberals;7;19;North Europe;777;-12;23
+Liberals;8;16;North Europe;875;-27;98
+Liberals;9;12;North Europe;1088;-49;213
+Liberals;10;23;North Europe;1217;41;129
+Liberals;11;12;North Europe;1433;-7;216
+Liberals;12;13;North Europe;1887;-3;455
+Liberals;13;11;North Europe;2135;-12;248
+Liberals;14;12;North Europe;2198;-6;63
+Liberals;15;11;North Europe;2726;-18;528
+Liberals;16;12;North Europe;3853;-6;1127
+Liberals;17;16;North Europe;4065;27;212
+Liberals;18;23;North Europe;4469;75;404
+National Action Party;0;8;America;0;;
+National Action Party;1;9;America;55;18;55
+National Action Party;2;10;America;184;29;129
+National Action Party;3;8;America;274;3;89
+National Action Party;4;12;America;362;55;88
+National Action Party;5;12;America;391;61;30
+National Action Party;6;14;America;542;77;151
+National Action Party;7;16;America;802;92;261
+National Action Party;8;9;America;880;47;77
+National Action Party;9;12;America;928;78;48
+National Action Party;10;18;America;989;130;60
+National Action Party;11;17;America;1078;123;90
+National Action Party;12;18;America;1145;131;67
+National Action Party;13;18;America;1194;129;49
+National Action Party;14;26;America;1246;176;52
+National Action Party;15;27;America;1308;179;62
+National Action Party;16;35;America;1413;209;105
+National Action Party;17;32;America;1456;201;42
+National Action Party;18;34;America;1620;208;165
+New Democratic Party;0;13;America;0;;
+New Democratic Party;1;13;America;105;-2;105
+New Democratic Party;2;18;America;1162;34;1056
+New Democratic Party;3;17;America;2070;28;908
+New Democratic Party;4;18;America;2139;33;69
+New Democratic Party;5;15;America;2219;20;81
+New Democratic Party;6;18;America;2260;36;41
+New Democratic Party;7;20;America;2275;46;15
+New Democratic Party;8;19;America;2337;42;62
+New Democratic Party;9;20;America;2396;50;59
+New Democratic Party;10;11;America;2436;4;40
+New Democratic Party;11;16;America;2611;46;175
+New Democratic Party;12;17;America;2717;58;105
+New Democratic Party;13;18;America;2825;62;109
+New Democratic Party;14;31;America;2932;130;107
+New Democratic Party;15;20;America;2977;94;45
+New Democratic Party;16;20;America;2977;94;0
+New Democratic Party;17;20;America;2977;94;0
+New Democratic Party;18;20;America;2977;94;0
+New Zealand Labour Party;0;46;Asia&Oceania;0;227;
+New Zealand Labour Party;1;44;Asia&Oceania;95;223;95
+New Zealand Labour Party;2;48;Asia&Oceania;148;233;53
+New Zealand Labour Party;3;43;Asia&Oceania;229;222;82
+New Zealand Labour Party;4;44;Asia&Oceania;394;223;165
+New Zealand Labour Party;5;41;Asia&Oceania;465;218;71
+New Zealand Labour Party;6;44;Asia&Oceania;479;225;14
+New Zealand Labour Party;7;48;Asia&Oceania;510;234;30
+New Zealand Labour Party;8;40;Asia&Oceania;554;216;45
+New Zealand Labour Party;9;40;Asia&Oceania;587;218;32
+New Zealand Labour Party;10;39;Asia&Oceania;631;215;44
+New Zealand Labour Party;11;43;Asia&Oceania;686;225;55
+New Zealand Labour Party;12;48;Asia&Oceania;852;236;166
+New Zealand Labour Party;13;35;Asia&Oceania;949;210;97
+New Zealand Labour Party;14;35;Asia&Oceania;1011;208;61
+New Zealand Labour Party;15;27;Asia&Oceania;1381;187;370
+New Zealand Labour Party;16;39;Asia&Oceania;1616;229;235
+New Zealand Labour Party;17;41;Asia&Oceania;1658;235;42
+New Zealand Labour Party;18;41;Asia&Oceania;1839;235;180
+New Zealand National Party;0;54;Asia&Oceania;0;;
+New Zealand National Party;1;44;Asia&Oceania;428;-18;428
+New Zealand National Party;2;44;Asia&Oceania;439;-18;11
+New Zealand National Party;3;48;Asia&Oceania;454;-11;14
+New Zealand National Party;4;47;Asia&Oceania;467;-12;13
+New Zealand National Party;5;44;Asia&Oceania;477;-19;10
+New Zealand National Party;6;45;Asia&Oceania;487;-15;10
+New Zealand National Party;7;41;Asia&Oceania;502;-23;15
+New Zealand National Party;8;48;Asia&Oceania;681;-9;179
+New Zealand National Party;9;40;Asia&Oceania;841;-25;160
+New Zealand National Party;10;39;Asia&Oceania;891;-28;49
+New Zealand National Party;11;36;Asia&Oceania;1122;-35;232
+New Zealand National Party;12;44;Asia&Oceania;1427;-13;304
+New Zealand National Party;13;48;Asia&Oceania;1527;-3;100
+New Zealand National Party;14;35;Asia&Oceania;1588;-30;61
+New Zealand National Party;15;33;Asia&Oceania;1658;-37;70
+New Zealand National Party;16;31;Asia&Oceania;1807;-44;149
+New Zealand National Party;17;21;Asia&Oceania;1940;-75;132
+New Zealand National Party;18;39;Asia&Oceania;2232;12;292
+Progressive Conservative Party;0;31;America;0;;
+Progressive Conservative Party;1;39;America;220;26;220
+Progressive Conservative Party;2;54;America;637;63;417
+Progressive Conservative Party;3;37;America;732;33;96
+Progressive Conservative Party;4;33;America;954;21;222
+Progressive Conservative Party;5;32;America;1149;20;195
+Progressive Conservative Party;6;31;America;1371;17;222
+Progressive Conservative Party;7;35;America;1518;28;147
+Progressive Conservative Party;8;35;America;1539;29;20
+Progressive Conservative Party;9;36;America;1658;30;120
+Progressive Conservative Party;10;32;America;2022;21;364
+Progressive Conservative Party;11;50;America;2102;75;80
+Progressive Conservative Party;12;43;America;2221;61;119
+Progressive Conservative Party;13;16;America;2493;-2;273
+Progressive Conservative Party;14;19;America;2687;16;194
+Progressive Conservative Party;15;12;America;2908;-19;220
+Progressive Conservative Party;16;12;America;2908;-19;0
+Progressive Conservative Party;17;12;America;2908;-19;0
+Progressive Conservative Party;18;12;America;2908;-19;0
+Progressive Party;0;22;North Europe;0;;
+Progressive Party;1;16;North Europe;49;-29;49
+Progressive Party;2;27;North Europe;621;45;573
+Progressive Party;3;26;North Europe;621;40;0
+Progressive Party;4;28;North Europe;1093;50;472
+Progressive Party;5;28;North Europe;1151;49;58
+Progressive Party;6;25;North Europe;1211;39;60
+Progressive Party;7;25;North Europe;1338;38;127
+Progressive Party;8;17;North Europe;1511;6;173
+Progressive Party;9;25;North Europe;1541;53;30
+Progressive Party;10;18;North Europe;1572;27;30
+Progressive Party;11;19;North Europe;1819;30;248
+Progressive Party;12;19;North Europe;2114;30;295
+Progressive Party;13;23;North Europe;2593;53;478
+Progressive Party;14;18;North Europe;2676;31;83
+Progressive Party;15;18;North Europe;2700;28;24
+Progressive Party;16;12;North Europe;2721;-6;21
+Progressive Party;17;15;North Europe;2781;20;60
+Progressive Party;18;24;North Europe;2883;86;101
+Radical Democratic Party;0;24;Central Europa;0;;
+Radical Democratic Party;1;23;Central Europa;105;-3;105
+Radical Democratic Party;2;24;Central Europa;195;-1;91
+Radical Democratic Party;3;24;Central Europa;311;0;116
+Radical Democratic Party;4;23;Central Europa;412;-4;101
+Radical Democratic Party;5;22;Central Europa;520;-9;108
+Radical Democratic Party;6;22;Central Europa;717;-7;196
+Radical Democratic Party;7;24;Central Europa;750;2;33
+Radical Democratic Party;8;23;Central Europa;904;-1;154
+Radical Democratic Party;9;23;Central Europa;998;-3;93
+Radical Democratic Party;10;21;Central Europa;1061;-12;63
+Radical Democratic Party;11;20;Central Europa;1089;-15;29
+Radical Democratic Party;12;20;Central Europa;1214;-17;124
+Radical Democratic Party;13;17;Central Europa;1357;-31;143
+Radical Democratic Party;14;16;Central Europa;1443;-39;85
+Radical Democratic Party;15;15;Central Europa;1569;-43;127
+Radical Democratic Party;16;16;Central Europa;1756;-34;187
+Radical Democratic Party;17;16;Central Europa;1756;-34;0
+Radical Democratic Party;18;16;Central Europa;1756;-34;0
+Republican Party;0;49;America;0;;
+Republican Party;1;49;America;88;-1;88
+Republican Party;2;45;America;138;-10;49
+Republican Party;3;42;America;316;-16;178
+Republican Party;4;48;America;536;0;220
+Republican Party;5;46;America;559;-5;23
+Republican Party;6;42;America;692;-15;133
+Republican Party;7;48;America;902;0;210
+Republican Party;8;47;America;1031;-2;129
+Republican Party;9;45;America;1074;-5;43
+Republican Party;10;45;America;1167;-6;93
+Republican Party;11;48;America;1229;0;62
+Republican Party;12;47;America;1282;-1;52
+Republican Party;13;49;America;1416;4;135
+Republican Party;14;42;America;1510;-10;93
+Republican Party;15;48;America;1624;4;115
+Republican Party;16;48;America;1649;4;25
+Republican Party;17;48;America;1649;4;0
+Republican Party;18;48;America;1649;4;0
+Social Democratic Labour Party;0;46;North Europe;0;;
+Social Democratic Labour Party;1;45;North Europe;71;-3;71
+Social Democratic Labour Party;2;46;North Europe;128;0;57
+Social Democratic Labour Party;3;48;North Europe;660;4;532
+Social Democratic Labour Party;4;47;North Europe;1095;3;435
+Social Democratic Labour Party;5;50;North Europe;1198;9;103
+Social Democratic Labour Party;6;45;North Europe;1289;-1;91
+Social Democratic Labour Party;7;44;North Europe;1368;-5;79
+Social Democratic Labour Party;8;43;North Europe;1435;-6;67
+Social Democratic Labour Party;9;43;North Europe;1491;-5;56
+Social Democratic Labour Party;10;46;North Europe;1534;0;43
+Social Democratic Labour Party;11;45;North Europe;1636;-2;102
+Social Democratic Labour Party;12;43;North Europe;1769;-5;133
+Social Democratic Labour Party;13;38;North Europe;2210;-18;441
+Social Democratic Labour Party;14;45;North Europe;2260;2;50
+Social Democratic Labour Party;15;36;North Europe;2467;-18;207
+Social Democratic Labour Party;16;40;North Europe;2528;-8;61
+Social Democratic Labour Party;17;35;North Europe;2786;-20;257
+Social Democratic Labour Party;18;31;North Europe;2893;-33;107
+Social Democratic Party;0;28;Asia&Oceania;0;;
+Social Democratic Party;1;29;Asia&Oceania;102;5;102
+Social Democratic Party;2;28;Asia&Oceania;199;1;97
+Social Democratic Party;3;21;Asia&Oceania;339;-22;140
+Social Democratic Party;4;22;Asia&Oceania;543;-20;204
+Social Democratic Party;5;21;Asia&Oceania;633;-25;91
+Social Democratic Party;6;20;Asia&Oceania;801;-30;168
+Social Democratic Party;7;19;Asia&Oceania;1074;-32;272
+Social Democratic Party;8;19;Asia&Oceania;1339;-31;265
+Social Democratic Party;9;17;Asia&Oceania;1464;-43;125
+Social Democratic Party;10;24;Asia&Oceania;1767;-1;304
+Social Democratic Party;11;15;Asia&Oceania;1856;-38;89
+Social Democratic Party;12;6;Asia&Oceania;1856;-96;0
+Social Democratic Party;13;9;Asia&Oceania;2298;-50;441
+Social Democratic Party;14;5;Asia&Oceania;2383;-95;86
+Social Democratic Party;15;5;Asia&Oceania;2497;-88;114
+Social Democratic Party;16;4;Asia&Oceania;2552;-110;54
+Social Democratic Party;17;2;Asia&Oceania;2556;-155;4
+Social Democratic Party;18;2;Asia&Oceania;2575;-150;19
+Social Democratic Party (DK);0;40;North Europe;0;;
+Social Democratic Party (DK);1;40;North Europe;30;2;30
+Social Democratic Party (DK);2;41;North Europe;42;4;12
+Social Democratic Party (DK);3;39;North Europe;267;0;225
+Social Democratic Party (DK);4;42;North Europe;593;7;326
+Social Democratic Party (DK);5;42;North Europe;640;6;46
+Social Democratic Party (DK);6;38;North Europe;712;-3;72
+Social Democratic Party (DK);7;34;North Europe;732;-13;20
+Social Democratic Party (DK);8;37;North Europe;926;-4;195
+Social Democratic Party (DK);9;26;North Europe;1183;-35;257
+Social Democratic Party (DK);10;30;North Europe;1261;-19;78
+Social Democratic Party (DK);11;37;North Europe;1278;5;17
+Social Democratic Party (DK);12;38;North Europe;1339;8;61
+Social Democratic Party (DK);13;33;North Europe;1359;-6;20
+Social Democratic Party (DK);14;32;North Europe;1410;-10;51
+Social Democratic Party (DK);15;29;North Europe;1474;-17;64
+Social Democratic Party (DK);16;30;North Europe;1649;-15;175
+Social Democratic Party (DK);17;37;North Europe;2035;10;386
+Social Democratic Party (DK);18;35;North Europe;2235;3;199
+Social Democratic Party of Germany;0;29;Central Europa;0;;
+Social Democratic Party of Germany;1;32;Central Europa;243;10;243
+Social Democratic Party of Germany;2;36;Central Europa;489;24;246
+Social Democratic Party of Germany;3;39;Central Europa;520;33;31
+Social Democratic Party of Germany;4;43;Central Europa;613;41;93
+Social Democratic Party of Germany;5;46;Central Europa;719;49;107
+Social Democratic Party of Germany;6;43;Central Europa;867;42;147
+Social Democratic Party of Germany;7;43;Central Europa;1014;42;147
+Social Democratic Party of Germany;8;38;Central Europa;1098;31;84
+Social Democratic Party of Germany;9;37;Central Europa;1142;28;44
+Social Democratic Party of Germany;10;33;Central Europa;1244;19;102
+Social Democratic Party of Germany;11;36;Central Europa;1362;27;118
+Social Democratic Party of Germany;12;41;Central Europa;1428;40;66
+Social Democratic Party of Germany;13;39;Central Europa;1457;34;30
+Social Democratic Party of Germany;14;34;Central Europa;1473;23;15
+Social Democratic Party of Germany;15;23;Central Europa;1483;-10;10
+Social Democratic Party of Germany;16;26;Central Europa;1550;2;67
+Social Democratic Party of Germany;17;21;Central Europa;1566;-18;16
+Social Democratic Party of Germany;18;21;Central Europa;1566;-18;0
+Social Democratic Party of Switzerland;0;26;Central Europa;0;;
+Social Democratic Party of Switzerland;1;27;Central Europa;650;4;650
+Social Democratic Party of Switzerland;2;26;Central Europa;1146;2;496
+Social Democratic Party of Switzerland;3;26;Central Europa;1276;2;130
+Social Democratic Party of Switzerland;4;23;Central Europa;1520;-9;245
+Social Democratic Party of Switzerland;5;23;Central Europa;1584;-11;63
+Social Democratic Party of Switzerland;6;25;Central Europa;1665;-2;82
+Social Democratic Party of Switzerland;7;24;Central Europa;1725;-4;60
+Social Democratic Party of Switzerland;8;23;Central Europa;1749;-11;24
+Social Democratic Party of Switzerland;9;18;Central Europa;1786;-30;37
+Social Democratic Party of Switzerland;10;18;Central Europa;1811;-30;25
+Social Democratic Party of Switzerland;11;22;Central Europa;1859;-11;48
+Social Democratic Party of Switzerland;12;22;Central Europa;1901;-9;42
+Social Democratic Party of Switzerland;13;23;Central Europa;1960;-6;58
+Social Democratic Party of Switzerland;14;20;Central Europa;2004;-21;44
+Social Democratic Party of Switzerland;15;19;Central Europa;2538;-25;534
+Social Democratic Party of Switzerland;16;19;Central Europa;2727;-25;189
+Social Democratic Party of Switzerland;17;19;Central Europa;2727;-25;0
+Social Democratic Party of Switzerland;18;19;Central Europa;2727;-25;0
+Socialist People’s Party;0;6;North Europe;0;;
+Socialist People’s Party;1;6;North Europe;536;-6;536
+Socialist People’s Party;2;11;North Europe;583;83;47
+Socialist People’s Party;3;6;North Europe;634;39;51
+Socialist People’s Party;4;9;North Europe;732;88;98
+Socialist People’s Party;5;6;North Europe;806;54;74
+Socialist People’s Party;6;5;North Europe;849;36;43
+Socialist People’s Party;7;4;North Europe;931;15;82
+Socialist People’s Party;8;6;North Europe;968;67;37
+Socialist People’s Party;9;11;North Europe;1110;159;142
+Socialist People’s Party;10;12;North Europe;1229;160;119
+Socialist People’s Party;11;15;North Europe;1434;187;206
+Socialist People’s Party;12;13;North Europe;1493;176;58
+Socialist People’s Party;13;8;North Europe;1531;140;39
+Socialist People’s Party;14;7;North Europe;1572;128;40
+Socialist People’s Party;15;8;North Europe;1714;131;143
+Socialist People’s Party;16;6;North Europe;2272;116;558
+Socialist People’s Party;17;6;North Europe;2418;110;146
+Socialist People’s Party;18;13;North Europe;2766;228;348
